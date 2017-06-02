@@ -1,15 +1,13 @@
 
-OpenEaagles 3rd Party Libraries
-===============================
+MXR 3rd Party Libraries
+=======================
 
-The most current version of OpenEaagles can be found at [www.OpenEaagles.org][1].
+The most current version of MXR simulation platform can be found at [www.mxrp.org][mxrp].
 
 * This package has been provided as a convenience for compiling in Windows. It contains executables, include files and static libraries.
 
 Executables
 -----------
-
-* [Premake] - build configuration tool
 
 * [mcpp] - portable C preprocessor (can be used as an alternative to Visual Studio C preprocessor - useful if Visual Studio is not installed on target computer)
 
@@ -82,7 +80,7 @@ Note: The standard freeglut header file has been modified so that we link agains
 #### Networking
 * [ZeroMQ] - version 4.2.1
 
-[1]: http://www.OpenEaagles.org
+[mxrp]: http://www.mxrp.org
 [Premake]: http://industriousone.com/premake
 [mcpp]: http://mcpp.sourceforge.net/
 [freetype]: http://www.freetype.org/
