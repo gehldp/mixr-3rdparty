@@ -1,8 +1,8 @@
 
-MXR 3rd Party Libraries
-=======================
+Mixed Reality Simulation Platform 3rd Party Libraries
+=====================================================
 
-The most current version of MXR simulation platform can be found at [www.mxrp.org][mxrp].
+The most current version of Mixed Reality simulation platform can be found at [www.mxrp.org][mxrp].
 
 * This package has been provided as a convenience for compiling in Windows. It contains executables, include files and static libraries.
 
