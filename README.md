@@ -44,9 +44,6 @@ Notes
 Version Numbers
 ---------------
 
-#### Build tool
-* [Premake] - version 5.0 alpha 11
-
 #### Graphics support
 * [freetype2] - version 2.5.0.1
 * [FTGL] - version 2.1.3rc5 (make sure to turn off "Whole Program Optimization")
