@@ -33,7 +33,7 @@ Libraries
 Notes
 -----
 
-* Visual Studio: All libraries have been compiled assuming a multi-threaded DLL-based runtime library.  The supplied libraries were compiled with:
+* Visual Studio: All libraries have been compiled assuming a multi-threaded DLL-based runtime library.  The supplied libraries have been compiled with:
    * Visual Studio 2013 update 5
    * Visual Studio 2015 update 3
    * Visual Studio 2017 15.0.0+26228.10
