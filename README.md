@@ -1,8 +1,8 @@
 
-Mixed Reality Simulation Platform 3rd Party Libraries
-=====================================================
+Mixed Reality Simulation Platform (MIXR) 3rd Party Libraries
+============================================================
 
-The most current version of Mixed Reality simulation platform can be found at [www.mxrp.org][mxrp].
+The most current version of Mixed Reality simulation platform can be found at [www.mixr-platform.org][mixr].
 
 * This package has been provided as a convenience for compiling in Windows. It contains executables, include files and static libraries.
 
@@ -77,7 +77,7 @@ Note: The standard freeglut header file has been modified so that we link agains
 #### Networking
 * [ZeroMQ] - version 4.2.1
 
-[mxrp]: http://www.mxrp.org
+[mixr]: http://www.mixr-platform.org
 [Premake]: http://industriousone.com/premake
 [mcpp]: http://mcpp.sourceforge.net/
 [freetype]: http://www.freetype.org/
